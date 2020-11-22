@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1da2c3b-146d-4144-a781-ba38770dc365" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="329" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ThaqBVL4UH9keKqIvylDqDs38Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Semester 2/Graph algorithms/Laboratories/Practical_work 1" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Facultate\FP\Assignments\Assignment 6-8\data_files" />
+      <recent name="E:\Facultate\FP\Assignments\Assignment 6-8\repository" />
+      <recent name="E:\Facultate\FP\Assignments\Assignment 6-8\text_files" />
+      <recent name="E:\Facultate\FP\Assignments\Assignment 6-8\tests" />
+      <recent name="E:\Facultate\FP\Assignments\Assignment 6-8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="binary_file_repository" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/repository" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repository/binary_file_repository.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_text_repository" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/repository" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Facultate\FP\Assignments\Assignment 6-8\repository\file_repository.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_repository" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/repository" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repository/file_repository.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_repository" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/repository" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Facultate\FP\Assignments\Assignment 6-8\repository\file_repository.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.file_repository" />
+        <item itemvalue="Python.binary_file_repository" />
+        <item itemvalue="Python.text_repository" />
+        <item itemvalue="Python.client_text_repository" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1da2c3b-146d-4144-a781-ba38770dc365" name="Default Changelist" comment="" />
+      <created>1573914969729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573914969729</updated>
+      <workItem from="1573914971112" duration="20531000" />
+      <workItem from="1573989762322" duration="2380000" />
+      <workItem from="1573996097267" duration="1578000" />
+      <workItem from="1574012561075" duration="6100000" />
+      <workItem from="1574106613726" duration="3956000" />
+      <workItem from="1574142643028" duration="3862000" />
+      <workItem from="1574156901479" duration="2297000" />
+      <workItem from="1574182998125" duration="4909000" />
+      <workItem from="1574191576673" duration="746000" />
+      <workItem from="1574193393817" duration="883000" />
+      <workItem from="1574258961787" duration="6456000" />
+      <workItem from="1574426039007" duration="16132000" />
+      <workItem from="1574500017928" duration="11440000" />
+      <workItem from="1574711385774" duration="135000" />
+      <workItem from="1574747739085" duration="618000" />
+      <workItem from="1574748927120" duration="593000" />
+      <workItem from="1574762022246" duration="13772000" />
+      <workItem from="1574795154973" duration="6972000" />
+      <workItem from="1574850115174" duration="7811000" />
+      <workItem from="1574863578662" duration="5170000" />
+      <workItem from="1574950032525" duration="2572000" />
+      <workItem from="1574953725599" duration="989000" />
+      <workItem from="1574972920435" duration="4054000" />
+      <workItem from="1575050181028" duration="2989000" />
+      <workItem from="1575140385236" duration="9514000" />
+      <workItem from="1575308484101" duration="2204000" />
+      <workItem from="1575318256672" duration="4133000" />
+      <workItem from="1575353651481" duration="1001000" />
+      <workItem from="1575356288434" duration="251000" />
+      <workItem from="1575382101936" duration="763000" />
+      <workItem from="1575399698361" duration="1933000" />
+      <workItem from="1575452339042" duration="21000" />
+      <workItem from="1575465054426" duration="1984000" />
+      <workItem from="1575468826914" duration="5963000" />
+      <workItem from="1575744730521" duration="8618000" />
+      <workItem from="1575799049705" duration="7199000" />
+      <workItem from="1575920472609" duration="5349000" />
+      <workItem from="1575957408377" duration="5188000" />
+      <workItem from="1575979015919" duration="9696000" />
+      <workItem from="1576073290633" duration="2722000" />
+      <workItem from="1576427896517" duration="9765000" />
+      <workItem from="1576575666326" duration="613000" />
+      <workItem from="1576580630310" duration="597000" />
+      <workItem from="1576603983668" duration="185000" />
+      <workItem from="1576659784851" duration="986000" />
+      <workItem from="1578425203987" duration="497000" />
+      <workItem from="1578425807524" duration="1008000" />
+      <workItem from="1578426991373" duration="199000" />
+      <workItem from="1578427269832" duration="3465000" />
+      <workItem from="1578497753634" duration="64000" />
+      <workItem from="1578742402491" duration="217000" />
+      <workItem from="1578981570287" duration="256000" />
+      <workItem from="1579100409133" duration="1338000" />
+      <workItem from="1579764755164" duration="21000" />
+      <workItem from="1584178305312" duration="1867000" />
+      <workItem from="1584298702440" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584298723475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584298723475" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584298708409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584298708409" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment_6_8$file_repository.coverage" NAME="file_repository Coverage Results" MODIFIED="1575995483084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_movie_TestMovie.coverage" NAME="Unittests for test_movie.TestMovie Coverage Results" MODIFIED="1574801804338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_test_rental_py.coverage" NAME="Unittests in test_rental.py Coverage Results" MODIFIED="1575354299092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_rental_TestRental_test_create_rental.coverage" NAME="Unittests for test_rental.TestRental.test_create_rental Coverage Results" MODIFIED="1574798128609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_client_TestClient_test_add_client.coverage" NAME="Unittests for test_client.TestClient.test_add_client Coverage Results" MODIFIED="1574157727774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_test_statistics_py.coverage" NAME="Unittests in test_statistics.py Coverage Results" MODIFIED="1574974556034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$binary_file_repository.coverage" NAME="binary_file_repository Coverage Results" MODIFIED="1575984134183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_rental_TestRental_test_add_rentals.coverage" NAME="Unittests for test_rental.TestRental.test_add_rentals Coverage Results" MODIFIED="1574851703665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_client_TestClient_test_create_client.coverage" NAME="Unittests for test_client.TestClient.test_create_client Coverage Results" MODIFIED="1574801769688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$text_repository.coverage" NAME="text_repository Coverage Results" MODIFIED="1575749052723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/Assignment_6_9___11$main.coverage" NAME="main Coverage Results" MODIFIED="1579101336176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_movie_TestMovie_test_update_movie.coverage" NAME="Unittests for test_movie.TestMovie.test_update_movie Coverage Results" MODIFIED="1574184473502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$option1.coverage" NAME="option1 Coverage Results" MODIFIED="1574782150905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_rental_TestRental_test_delete_rentals.coverage" NAME="Unittests for test_rental.TestRental.test_delete_rentals Coverage Results" MODIFIED="1574852213710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_test_client_py.coverage" NAME="Unittests in test_client.py Coverage Results" MODIFIED="1575149389483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1575474225024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$ui.coverage" NAME="ui Coverage Results" MODIFIED="1574851386633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_client_TestClient.coverage" NAME="Unittests for test_client.TestClient Coverage Results" MODIFIED="1574157772316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$client_text_repository.coverage" NAME="client_text_repository Coverage Results" MODIFIED="1575746867790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_rental_TestRental.coverage" NAME="Unittests for test_rental.TestRental Coverage Results" MODIFIED="1574795509056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_client_TestClient_test_update_client.coverage" NAME="Unittests for test_client.TestClient.test_update_client Coverage Results" MODIFIED="1574797989500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$main.coverage" NAME="main Coverage Results" MODIFIED="1576659862859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_for_test_movie_TestMovie_test_create_movie.coverage" NAME="Unittests for test_movie.TestMovie.test_create_movie Coverage Results" MODIFIED="1574110367196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Movie_ui.coverage" NAME="Movie_ui Coverage Results" MODIFIED="1573925875718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_test_movie_py.coverage" NAME="Unittests in test_movie.py Coverage Results" MODIFIED="1575149342958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>

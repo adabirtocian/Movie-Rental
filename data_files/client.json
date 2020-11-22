@@ -1,0 +1,12 @@
+{
+  "entities": [
+    {
+      "_id": 1,
+      "_name": "Ana"
+    },
+    {
+      "_id": 2,
+      "_name": "MariA"
+    }
+  ]
+}
